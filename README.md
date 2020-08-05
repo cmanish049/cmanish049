@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Manish Chaudhary
 
-##### Laravel Developer
+__Laravel Developer__
 
-__Currently working in [ISOP NEPAL](https://isopnepal.com)__
+Currently working in [ISOP NEPAL](https://isopnepal.com)
 
