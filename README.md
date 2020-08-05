@@ -1,3 +1,3 @@
-### Hi there 👋
+### Hi there 👋 I am Manish Chaudhary
 
-I am laravel developer.
+## Laravel Developer
