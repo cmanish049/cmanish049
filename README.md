@@ -5,3 +5,5 @@ __Laravel Developer__
 Currently working in [ISOP NEPAL](https://isopnepal.com)
 
 Trying to get my hands dirty with TDD
+
+[![Manish's github stats](https://github-readme-stats.vercel.app/api?username=cmanish049)](https://github.com/anuraghazra/github-readme-stats)
