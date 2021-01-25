@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Manish Chaudhary
 
-__Laravel Developer__
+_Software Developer__
 
 Currently working in [ISOP NEPAL](https://isopnepal.com) and [Sugarwish](https://sugarwish.com)
