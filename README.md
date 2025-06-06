@@ -1,4 +1,4 @@
-### Hi there 👋 I am Manish Chaudhary
+### Hi there 👋 I am [Manish Chaudhary](https://manishdev.com)
 
 __Software Developer__ living in Dhangadhi, Nepal
 
