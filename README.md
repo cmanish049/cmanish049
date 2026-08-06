@@ -2,4 +2,4 @@
 
 __Software Developer__ living in Dhangadhi, Nepal
 
-Currently working as Laravel Developer in project [Sugarwish](https://sugarwish.com)
+Currently working as Software Developer in project [Sugarwish](https://sugarwish.com)
